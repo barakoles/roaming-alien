@@ -1,0 +1,19 @@
+{
+  "name": "roaming-alien",
+  "version": "0.0.0",
+  "description": "Aliens who roam the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Paranhos",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "prettier": "^1.16.4",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.3.1"
+  }
+}
