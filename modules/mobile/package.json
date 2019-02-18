@@ -1,5 +1,5 @@
 {
-  "name": "roamingAlien",
+  "name": "@roamingalien/mobile",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,20 +8,21 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "react": "16.6.3",
-    "react-native": "0.58.4"
+    "react": "16.8.2",
+    "react-native": "0.59.0-rc.1"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.0",
-    "@types/react": "^16.8.2",
-    "@types/react-native": "^0.57.34",
-    "@types/react-test-renderer": "^16.8.0",
-    "babel-core": "^7.0.0-bridge.0",
+    "@types/jest": "24.0.6",
+    "@types/react": "16.8.3",
+    "@types/react-native": "0.57.36",
+    "@types/react-test-renderer": "16.8.1",
+    "babel-core": "7.0.0-bridge.0",
     "babel-jest": "24.1.0",
     "jest": "24.1.0",
     "metro-react-native-babel-preset": "0.51.1",
     "react-test-renderer": "16.6.3",
-    "typescript": "^3.3.1"
+    "ts-jest": "23.10.5",
+    "typescript": "3.3.3"
   },
   "jest": {
     "preset": "react-native"
